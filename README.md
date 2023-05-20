@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning & data science**
 
-- 📝 I regularly write articles on [https://vocal.media/authors/manav-patel-mx3dqc0wsn](https://vocal.media/authors/manav-patel-mx3dqc0wsn)
+- 📝 I regularly share post on [https://www.linkedin.com/in/manav-patel-571-aiml/](https://www.linkedin.com/in/manav-patel-571-aiml/)
 
 - 📫 How to reach me **manavpatel5571@gmail.com**
 
