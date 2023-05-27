@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/Right_Side.gif"> 
 
-- 🌱 I’m currently learning **machine learning & data science**
+- ✍️ I’m currently learning **machine learning & data science**
 
 - 📝 I regularly share post on [https://www.linkedin.com/in/manav-patel-571-aiml/](https://www.linkedin.com/in/manav-patel-571-aiml/)
 
