@@ -5,8 +5,6 @@
 
 - ✍️ I’m currently learning **machine learning & data science**
 
-- 📝 I regularly share post on [https://www.linkedin.com/in/manav-patel-571-aiml/](https://www.linkedin.com/in/manav-patel-571-aiml/)
-
 - 📫 How to reach me **manavpatel5571@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
